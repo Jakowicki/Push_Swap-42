@@ -24,29 +24,33 @@ The K-sort algorithm is a modified sorting algorithm that is particularly effici
 ## Setup and Installation ⚙️
 
 Clone the repository:
+-
 ```sh
 git clone (https://github.com/Jakowicki/Push_Swap-42.git)
 ```
 Navigate to the project directory:
 -
-_cd push_swap_
-
+```sh
+cd push_swap
+```
 Compile the project:
 -
-_make_
-
+```sh
+make
+```
 
 ## Usage 🚀
 
 To run the push_swap program, use the following command:
 
-
-_./push_swap <list_of_integers>_
-
+```sh
+./push_swap <list_of_integers>
+```
 Example:
 
-
-_./push_swap 3 2 5 1 4_
+```sh
+./push_swap 3 2 5 1 4
+```
 To verify the output, you can use the checker program:
 
 ## Main Steps 🛠️
