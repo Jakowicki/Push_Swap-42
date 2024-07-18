@@ -51,15 +51,6 @@ Copy code
 ./push_swap 3 2 5 1 4
 To verify the output, you can use the checker program:
 
-sh
-Copy code
-./checker <list_of_integers>
-Example:
-
-sh
-Copy code
-./checker 3 2 5 1 4
-
 
 
 Main Steps 🛠️
